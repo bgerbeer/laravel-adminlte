@@ -1,7 +1,15 @@
 *.DS_Store
 *.log
 *.zip
+
 .idea
+.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
 .sass-cache/
 /nbproject/
 /nbproject/private/
